@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denizsafak
-- 👀 I’m experienced with HTML, CSS, Javascript, SQL, PHP and Python
+- 👀 I’m experienced with HTML, CSS, Javascript, SQL, PHP and little bit Python
 - 🌱 I’m currently learning React, Unity, Node.js and Three.js
 - 💞️ I’m looking to collaborate on start-ups, website projects, etc...
 
